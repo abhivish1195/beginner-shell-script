@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $USER == ec2-user ]
+if [ $USER == yourUsername ]
 
 then
 	sudo cat /proc/cpuinfo
