@@ -3,8 +3,8 @@
 #Writing my variable script
 
 
-firstname=Abhimanyu
-lastname=Vishwakarma
+firstname=yourNmae
+lastname=YourLastname
 status="is writing"
 scriptname="variable script"
 
