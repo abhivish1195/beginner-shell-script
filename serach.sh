@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file=/home/ec2-user/scripts/ifthen.sh
+file=/path/to/the/file/or/folder/which/you/have/to/find
 
 if [ -e $file ]
 
