@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Name=Abhimanyuu
+Name=YourName
 Name2=None
 
 if [ $Name == $Name ]
